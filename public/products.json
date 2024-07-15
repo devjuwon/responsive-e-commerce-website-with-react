@@ -1,0 +1,75 @@
+
+[
+{
+    "id":1,
+    "title": "Adicolor Classic Joggers",
+    "category": "Dress",
+    "price": 63.85,
+    "image": "/top-product.png",
+    "status": "Best Sellers"
+
+},
+
+{
+    "id":2,
+    "title": "Nike sportwear future luxe",
+    "category": "Bag",
+    "price": 130.00,
+    "image": "/top-product (1).png",
+    "status": "Best Sellers"
+},
+
+{
+    "id":3,
+    "title": "Geometric print scarf",
+    "category": "Dress",
+    "price": 53.00,
+    "image": "/top-product (2).png",
+    "status": "Best Sellers"
+},
+
+{
+    "id":4,
+    "title": "Yellow Reserved Hoodie",
+    "category": "Hoodies",
+    "price": 63.85,
+    "image": "/top-product (3).png",
+    "status": "New Arrivals"
+},
+
+{
+    "id":5,
+    "title": "Basic Dress Green",
+    "category": "Dress",
+    "price": 263.85,
+    "image": "/top-product (4).png",
+    "status": "New Arrivals"
+},
+
+{
+   "id":6,
+    "title": "Nike Air Zoom Pegasus",
+    "category": "Glasses",
+    "price": 160.85,
+    "image": "/top-product (5).png",
+    "status": "Best Sellers" 
+},
+
+{
+    "id":7,
+    "title": "Nike Repel Miller",
+    "category": "Dress",
+    "price": 120.85,
+    "image": "/top-product (6).png",
+    "status": "Best Sellers"
+},
+
+{
+    "id":8,
+    "title": "Nike sportwear future luxe",
+    "category": "Glasses",
+    "price": 160.85,
+    "image": "/top-product (7).png",
+    "status": "New Arrivals"
+}
+]
