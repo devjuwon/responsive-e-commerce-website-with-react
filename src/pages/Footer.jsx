@@ -38,7 +38,7 @@ const Footer = () => {
                 Hoodies
               </Link>
               <Link to="/" className="text-sm block hover:text-orange-500">
-                Jewelry Box
+                Jewelry Boxs
               </Link>
               <Link to="/" className="text-sm block hover:text-orange-500">
                 T-shirt
